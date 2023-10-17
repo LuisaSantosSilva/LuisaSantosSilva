@@ -15,6 +15,7 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-005b8f?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-005b8f?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-005b8f?style=for-the-badge&logo=php&logoColor=white"/>
+    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-005b8f?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-005b8f?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
