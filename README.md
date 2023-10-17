@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello, My name is Luisa Santos! 👋🏽
 
-<!--
-**LuisaSantosSilva/LuisaSantosSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-005b8f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-s-823820278/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-005b8f?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/?utm_source=OGB&utm_medium=app&authuser=0)
+[![Instagram](https://img.shields.io/badge/Instagram-005b8f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisasantooss)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Luisa GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisaSantosSilva&show_icons=true&title_color=ffffff&bg_color=DEG,1c1c1c,005b8f&text_color=ffffff&icon_color=ffffff&ring_color=ffffff)
+
+
+### Technologies I use and learn on a daily basis:
+
+<div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-005b8f?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-005b8f?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-005b8f?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-005b8f?style=for-the-badge&logo=php&logoColor=white"/>
+    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-005b8f?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+</div>
+
+#### I really like technology and innovative ideas🎯
+
+<div>
+<a href="https://github.com/LuisaSantosSilva">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaSantosSilva&layout=compact&title_color=ffffff&bg_color=DEG,1c1c1c,005b8f&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"/>
+</div>
+
