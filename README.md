@@ -23,6 +23,6 @@
 
 <div>
 <a href="https://github.com/LuisaSantosSilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaSantosSilva&layout=compact&title_color=ffffff&bg_color=DEG,1c1c1c,005b8f&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaSantosSilva&layout=compact&langs_count=8&title_color=ffffff&bg_color=DEG,1c1c1c,005b8f&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"/>
 </div>
 
