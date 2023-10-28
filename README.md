@@ -8,10 +8,10 @@ Systems design analysis
 Embedded systems,
 Database,
 Programming Techniques And Algorithms,
-Systems development,
+Systems Development,
 Web Programming,
-Mobile Application Programming,
-digital design.
+Mobile Application Programming and
+Digital Design.
 
 
 ### Technologies I use and learn on a daily basis:
