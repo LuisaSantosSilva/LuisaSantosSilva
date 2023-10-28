@@ -1,28 +1,38 @@
-## Hello, My name is Luisa Santos! 👋🏽
+## Hello, My name is Luisa Santos! 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-005b8f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-s-823820278/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-005b8f?style=for-the-badge&logo=gmail&logoColor=white)](https://myaccount.google.com/?utm_source=OGB&utm_medium=app&authuser=0)
-[![Instagram](https://img.shields.io/badge/Instagram-005b8f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisasantooss)
+I'm a high school student integrated with the Systems Development course, I really like looking for innovative ideas and I also had fun with it.
 
-
-![Luisa GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisaSantosSilva&show_icons=true&title_color=ffffff&bg_color=DEG,1c1c1c,005b8f&text_color=ffffff&icon_color=ffffff&ring_color=ffffff)
+In my curriculum which I am studying, I have acquired experiences so far with:
+Fundamentals of Informatics,
+Systems design analysis
+Embedded systems,
+Database,
+Programming Techniques And Algorithms,
+Systems development,
+Web Programming,
+Mobile Application Programming,
+digital design.
 
 
 ### Technologies I use and learn on a daily basis:
 
-<div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-005b8f?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-005b8f?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-005b8f?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-005b8f?style=for-the-badge&logo=php&logoColor=white"/>
-    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-005b8f?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-005b8f?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-</div>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="30"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="30" />&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="30" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VScpde" width="40"height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40"height="30"/>&nbsp;
+</p>
 
-#### I really like technology and innovative ideas🎯
+##
 
-<div>
-<a href="https://github.com/LuisaSantosSilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisaSantosSilva&layout=compact&langs_count=8&title_color=ffffff&bg_color=DEG,1c1c1c,005b8f&text_color=ffffff&icon_color=ffffff&ring_color=ffffff"/>
-</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-s-823820278/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisasantossilvaa@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisasantooss)
 
