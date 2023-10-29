@@ -1,6 +1,6 @@
 ## Hello, My name is Luisa Santos! 
-
-I'm a high school student integrated with the Systems Development course, I really like looking for innovative ideas and I also had fun with it.
+I'm 16 years old and I am based on the East Zone of São Paulo.
+I'm a high school student integrated with the Systems Development course, really like looking for innovative ideas and I also had fun with it.
 
 In my curriculum which I am studying, I have acquired experiences so far with:
 Fundamentals of Informatics,
@@ -35,4 +35,6 @@ Digital Design.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-s-823820278/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisasantossilvaa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisasantooss)
+
+[![Luisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisaSantosSilva&area=true&hide_border=true&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
