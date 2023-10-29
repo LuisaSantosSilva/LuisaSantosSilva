@@ -36,5 +36,3 @@ Digital Design.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisasantossilvaa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisasantooss)
 
-[![Luisa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisaSantosSilva&area=true&hide_border=true&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
