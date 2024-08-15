@@ -1,4 +1,4 @@
-## Hello, My name is Luisa Santos! 
+## Hello, My name is Luisa Santos!
 I'm 17 years old and I am based on the East Zone of São Paulo.
 I'm a high school student integrated with the Systems Development course, really like looking for innovative ideas and I also had fun with it.
 
@@ -32,6 +32,6 @@ Digital Design.
 
 ##
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-s-823820278/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisasantossilvaa@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-s-823820278/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisasantossilvaa@gmail.com)
 
