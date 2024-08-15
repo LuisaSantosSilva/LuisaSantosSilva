@@ -13,6 +13,9 @@ Web Programming,
 Mobile Application Programming and
 Digital Design.
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisaSantosSilva&bg_color=ffffffcolor=d3d3d3&line=d3d3d3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
 
 ### Technologies I use and learn on a daily basis:
 
