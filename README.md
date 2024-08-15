@@ -1,5 +1,5 @@
 ## Hello, My name is Luisa Santos! 
-I'm 16 years old and I am based on the East Zone of São Paulo.
+I'm 17 years old and I am based on the East Zone of São Paulo.
 I'm a high school student integrated with the Systems Development course, really like looking for innovative ideas and I also had fun with it.
 
 In my curriculum which I am studying, I have acquired experiences so far with:
