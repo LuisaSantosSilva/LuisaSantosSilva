@@ -1,19 +1,7 @@
 ## Hello, My name is Luisa Santos!
 I'm 17 years old and I am based on the East Zone of São Paulo.
-I'm a high school student integrated with the Systems Development course, really like looking for innovative ideas and I also had fun with it.
 
-In my curriculum which I am studying, I have acquired experiences so far with:
-Fundamentals of Informatics,
-Systems design analysis
-Embedded systems,
-Database,
-Programming Techniques And Algorithms,
-Systems Development,
-Web Programming,
-Mobile Application Programming and
-Digital Design.
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisaSantosSilva&bg_color=000000fcolor=000000&line=000000&point=d3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Currently, I am an undergraduate student in Systems Analysis and Development. I have participated in an exchange program in England, where I gained new experiences and broadened my worldview. I am passionate about innovation, which has led me to participate in innovative idea contests. I am determined, creative, adaptable, and always eager to learn.
 
 ##
 
@@ -35,6 +23,6 @@ Digital Design.
 
 ##
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-s-823820278/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisasantossilva/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisasantossilvaa@gmail.com)
 
