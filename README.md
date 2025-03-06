@@ -1,3 +1,9 @@
+<div align="center">
+  
+  <img width="1000" src="https://github.com/LuisaSantosSilva/LuisaSantosSilva/blob/main/imagens%20readme/Banner%20Readme.png">
+
+</div>
+
 ## Hello, My name is Luisa Santos!
 I'm 17 years old and I am based on the East Zone of São Paulo.
 
@@ -23,6 +29,6 @@ Currently, I am an undergraduate student in Systems Analysis and Development. I 
 
 ##
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisasantossilva/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisasantossilvaa@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%235895ce?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisasantossilva/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDbTYdw%2FeSpiH%2Bgs%2BIhKEfQ%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-5895ce?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisasantossilvaa@gmail.com)
 
