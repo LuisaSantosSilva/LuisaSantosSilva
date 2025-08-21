@@ -5,7 +5,7 @@
 </div>
 
 ## Hello, My name is Luisa Santos!
-I'm 17 years old and I am based on the East Zone of São Paulo.
+I'm 18 years old and I am based on the East Zone of São Paulo.
 
 Currently, I am an undergraduate student in Systems Analysis and Development. I have participated in an exchange program in England, where I gained new experiences and broadened my worldview. I am passionate about innovation, which has led me to participate in innovative idea contests. I am determined, creative, adaptable, and always eager to learn.
 
